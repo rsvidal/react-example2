@@ -8,7 +8,15 @@ Anyway, this project works successfully and you can learn React reviewing this p
 2. Data is shared between different react components, using observables
 3. This project has defined different classes by funcionality: IU, business, Controllers, etc.
 
+When you clones this project in your computer, you need installs their dependencies:
+npm install
+
+And you can start the application using the following sentence:
+npm start
+
+#
 # DEPRECATED #
+#
 
 Use https://github.com/arackaf/customize-cra instead. 
 Or don't use decorator sytax at all but the MobX 4 `decorate` featur einstead.
