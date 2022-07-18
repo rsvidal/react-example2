@@ -1,5 +1,13 @@
-# DEPRECATED #
+# RSV
+This project has been copied from 'create-react-app-mobx' project: https://github.com/mobxjs/create-react-app-mobx
 
+#
+#
+# ORIGINAL README.md #
+#
+#
+
+# DEPRECATED #
 Use https://github.com/arackaf/customize-cra instead. 
 Or don't use decorator sytax at all but the MobX 4 `decorate` featur einstead.
 
