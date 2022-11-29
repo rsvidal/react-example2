@@ -1,7 +1,7 @@
 # NOTES by Rafael San Vidal #
 
-This proyect was created using MOBX from the next repository: https://github.com/mobxjs/create-react-app-mobx
-But this project has bbeen deprecated.
+This proyect was created using MOBX from the next repository: https://github.com/mobxjs/create-react-app-mobxCancel changes
+But this project has been deprecated.
 Anyway, this project works successfully and you can learn React reviewing this project.
 
 1. This project uses 'React Route' to render react components by path (from url).
